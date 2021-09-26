@@ -122,6 +122,8 @@ namespace CS538_HW1
             }
 
             Console.WriteLine("Plaintext: " + plaintext);
+            Console.WriteLine("\nPress any key to exit");
+            Console.ReadKey();
         }
 
         static int GCD(int a, int b)
