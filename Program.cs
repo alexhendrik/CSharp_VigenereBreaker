@@ -121,7 +121,7 @@ namespace CS538_HW1
                 }
             }
 
-            Console.WriteLine("Plaintext"plaintext);
+            Console.WriteLine("Plaintext: " + plaintext);
         }
 
         static int GCD(int a, int b)
